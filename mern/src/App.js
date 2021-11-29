@@ -19,4 +19,4 @@ return (
 </Router>
 );
 };
-export default App;
+export default App
